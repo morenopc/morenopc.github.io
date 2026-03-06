@@ -4,14 +4,14 @@ This repository holds the static source files for **Moreno Cunha’s personal po
 
 ---
 
-## 🌐 Live Site
+## Live Site
 
 - Available at: `https://morenopc.com`
 - Hosted at: `https://morenopc.github.io/`
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `index.html` — Main landing page  
 - `static/` — CSS, JavaScript, fonts, and favicon assets  
@@ -20,12 +20,12 @@ This repository holds the static source files for **Moreno Cunha’s personal po
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 This is a static site, so you can just open `index.html` in a browser.  
 For a local server (recommended for correct relative paths):
 
-### ✅ Option A: Python (built-in)
+### Option A: Python (built-in)
 
 ```bash
 cd morenopc.github.io
